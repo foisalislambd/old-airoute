@@ -94,7 +94,7 @@
     "js-tiktoken": "^1.0.20",
     "keytar": "^7.9.0",
     "tls-client-node": "^0.2.0",
-    "wreq-js": "^2.3.1"
+    "wreq-js": "^3.0.0"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.3.0",
