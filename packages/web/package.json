@@ -40,7 +40,7 @@
     "ink": "^7.0.3",
     "ink-spinner": "^5.0.0",
     "ink-text-input": "^6.0.0",
-    "ioredis": "^5.10.1",
+    "ioredis": "^6.0.0",
     "jose": "^6.2.3",
     "js-yaml": "^5.2.2",
     "jsonc-parser": "^3.3.1",
