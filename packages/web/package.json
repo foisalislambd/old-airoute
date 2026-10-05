@@ -87,7 +87,7 @@
     "zustand": "^5.0.13"
   },
   "optionalDependencies": {
-    "@atjsh/llmlingua-2": "2.0.3",
+    "@atjsh/llmlingua-2": "3.0.0",
     "@huggingface/transformers": "4.2.0",
     "@tensorflow/tfjs": "4.22.0",
     "better-sqlite3": "^13.0.1",
